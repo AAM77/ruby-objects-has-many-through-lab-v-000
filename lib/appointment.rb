@@ -7,5 +7,4 @@ class Appointment
     doctor.appointments << self
   end
 
-
 end
