@@ -12,6 +12,7 @@ class Patient
   end
 
   def add_appointment(appointment)
-    self.appointments <<
+    self.appointments << appointment
+  end
 
 end
