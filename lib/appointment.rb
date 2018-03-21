@@ -8,6 +8,7 @@ class Appointment
   end
 
   def add_appointment
+    doctor.appointments << self
 
 
 end
