@@ -15,5 +15,7 @@ class Doctor
     appointment.patient = self
   end
 
+  
+
 
 end
