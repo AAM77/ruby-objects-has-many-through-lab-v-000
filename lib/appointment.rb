@@ -1,4 +1,5 @@
 class Appointment
-  def :date
+
+  attr_accessor :date, :doctor, :patient
 
 end
