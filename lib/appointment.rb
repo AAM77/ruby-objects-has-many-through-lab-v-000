@@ -4,13 +4,13 @@ class Appointment
 
   def initialize(doctor)
     @doctor = doctor
-  end
-
-  def add_appointment
     doctor.appointments << self
   end
 
-  
+  def add_appointment
+    
+    
+  end
 
 
 end
