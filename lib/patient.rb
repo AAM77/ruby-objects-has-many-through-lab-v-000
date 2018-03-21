@@ -6,6 +6,7 @@ class Patient
     @name = name
     @appointment = appointment
     @doctors = []
+  end
 
 
 end
