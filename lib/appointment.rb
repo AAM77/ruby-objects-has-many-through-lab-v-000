@@ -4,7 +4,7 @@ class Appointment
 
   def initialize(doctor)
     @doctor = doctor
-
-    
+    doctor.appoints << self
+  end
 
 end
