@@ -5,4 +5,6 @@ class Appointment
   def initialize(doctor)
     @doctor = doctor
 
+    
+
 end
